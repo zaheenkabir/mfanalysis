@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+scipy
+python-multipart
+requests
+streamlit
+plotly
+nsepython
