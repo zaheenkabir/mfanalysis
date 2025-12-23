@@ -1,0 +1,18 @@
+# Core Framework
+streamlit
+pandas
+numpy
+plotly
+
+# Data Sources
+mftool
+yfinance
+requests
+
+# Analytics
+scipy
+
+# Optional (remove if not using FastAPI backend)
+# fastapi
+# uvicorn
+# python-multipart
