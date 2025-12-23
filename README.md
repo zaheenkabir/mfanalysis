@@ -12,7 +12,7 @@ An institutional-grade dashboard for analyzing Indian mutual funds, constructing
 - **🧮 Financial Calculators**: Built-in SIP, Lumpsum, and Step-up SIP calculators with inflation adjustment.
 
 ## 🚀 Live Demo
-[Deploy this app on Streamlit Cloud](https://streamlit.io/cloud)
+[Deploy this app on Streamlit Cloud](https://mfanalysis-dashboard.streamlit.app/)
 
 ## 🛠️ Tech Stack
 - **Frontend**: Streamlit
